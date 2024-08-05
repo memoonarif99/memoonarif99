@@ -21,6 +21,10 @@
 
 # Languages and Tools:
 
+<div style="background-color: #f0f0f0; padding: 10px;">
+  This is some text with a background color and padding.
+</div>
+
 - !JavaScript
 - !Node.js
 - !React
