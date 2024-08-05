@@ -18,7 +18,32 @@
 
 - 🌎 On the move: Navigating the world with my MacBook as my essentials.
 
-🛠️ Languages and Tools :
-JavaScript React Redux TypeScript BootStrap TailwindCSS Git JSON NodeJS Express Next JS Vite Gulp Webpack Firebase Mongodb Axios Less
+# Languages and Tools:
 
+!JavaScript
+!Node.js
+!React
+!Express
+!Next.js
+!Vue.js
+!Bootstrap
+!TailwindCSS
+!Git
+!MongoDB
+!Axios
+!Less
 
+# My Stats:
+
+!Total Contributions
+!Week Streak
+!Longest Week Streak
+
+## Most Used Languages:
+
+```text
+JavaScript   48.17%
+HTML         13.9%
+CSS          12.84%
+TypeScript   12.4%
+SCSS         7.24%
