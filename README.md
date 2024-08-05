@@ -18,11 +18,5 @@
 
 - 🌎 On the move: Navigating the world with my MacBook as my essentials.
 
-<table>
-  <tr >
-    <td style="background: #FFFFF; padding: 10px;">
-      React
-    </td>
-  </tr>
-</table>
+<kbd style="background-color: #47B772; padding: 10px; color: white;">React</kbd>
 
