@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td style="background-color: #47B772; padding: 10px;">
+    <td style="background-color: red; padding: 10px;">
       This is some text with a background color and padding.
     </td>
   </tr>
