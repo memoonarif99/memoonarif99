@@ -13,12 +13,6 @@
 
 - 🚀 Specializing in developing high-quality, scalable applications
 
-- 🔧 Extensive experience in:
-  - React
-  - TypeScript
-  - Node.js
-  - Modern web technologies
-
 - 🛠️ Enjoy building solutions that solve real-world problems
 
 - 👯 I’m looking to collaborate on open-source projects or anything related to web development.
