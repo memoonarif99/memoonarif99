@@ -7,9 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Hi there, I'm MEMOON 👋
-
-# 👨‍💻 About Me :
+### 👨‍💻 About Me :
 
 - 🔭 Passionate Full-Stack Software Engineer immersed in the ever-evolving world of web technologies.
 
@@ -48,5 +46,11 @@
 ![Mongodb](https://img.shields.io/badge/mongodb-%23593d88.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-orange.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Less](https://img.shields.io/badge/less-%23E0234E.svg?style=for-the-badge&logo=less&logoColor=white)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=commmpotte&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commmpotte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
