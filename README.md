@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm MEMOON 👋
 
-<!--
-**memoonarif99/memoonarif99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 About Me :
 
-Here are some ideas to get you started:
+- 🔭 I’m a passionate junior frontend-developer exploring the ever-evolving world of web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently enhancing my skills in HTML, CSS, and JavaScript, with a keen interest in React.
+
+- 👯 I’m looking to collaborate on open-source projects or anything related to web development.
+
+- 💬 Ask me about frontend development, responsive design, or anything related to my projects.
+
+- ⚡ Fun fact: living & traveling everywhere with my yellow bag and MacBook.
