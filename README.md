@@ -21,10 +21,10 @@
 
 # Languages and Tools:
 
-!JavaScript
-!Node.js
-!React
-!Express
+- !JavaScript
+- !Node.js
+- !React
+- !Express
 !Next.js
 !Vue.js
 !Bootstrap
