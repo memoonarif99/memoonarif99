@@ -2,12 +2,18 @@
 
 # 👨‍💻 About Me :
 
-- 🔭 I’m a passionate junior frontend-developer exploring the ever-evolving world of web technologies.
+- 💻 Passionate Full-Stack Software Engineer immersed in the ever-evolving world of web technologies.
 
-- 🌱 I’m currently enhancing my skills in HTML, CSS, and JavaScript, with a keen interest in React.
+- 🚀 Specializing in developing high-quality, scalable applications
+
+- 🔧 Extensive experience in:
+  - ⚛️ React
+  - 📝 TypeScript
+  - 🌐 Node.js
+  - 📦 Modern web technologies
+
+- 🛠️ Enjoy building solutions that solve real-world problems
 
 - 👯 I’m looking to collaborate on open-source projects or anything related to web development.
 
-- 💬 Ask me about frontend development, responsive design, or anything related to my projects.
-
-- ⚡ Fun fact: living & traveling everywhere with my yellow bag and MacBook.
+- 🌎 On the move: Navigating the world with my MacBook as my essentials.
