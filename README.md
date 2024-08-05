@@ -18,9 +18,10 @@
 
 - 🌎 On the move: Navigating the world with my MacBook as my essentials.
 
-!Background Image
 
 <div style="background-color: lightblue; padding: 10px;">
+Hello world
+</div>
 
 # Languages and Tools:
 
