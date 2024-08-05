@@ -2,7 +2,7 @@
 
 # 👨‍💻 About Me :
 
-- 💻 Passionate Full-Stack Software Engineer immersed in the ever-evolving world of web technologies.
+- 🔭 Passionate Full-Stack Software Engineer immersed in the ever-evolving world of web technologies.
 
 - 🚀 Specializing in developing high-quality, scalable applications
 
