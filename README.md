@@ -7,10 +7,10 @@
 - 🚀 Specializing in developing high-quality, scalable applications
 
 - 🔧 Extensive experience in:
-  - ⚛️ React
-  - 📝 TypeScript
-  - 🌐 Node.js
-  - 📦 Modern web technologies
+  - React
+  - TypeScript
+  - Node.js
+  - Modern web technologies
 
 - 🛠️ Enjoy building solutions that solve real-world problems
 
