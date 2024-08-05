@@ -20,8 +20,8 @@
 
 <table>
   <tr>
-    <td style="background-color: red; padding: 10px;">
-      This is some text with a background color and padding.
+    <td style="background-color: #FFFFF; padding: 10px;">
+      React
     </td>
   </tr>
 </table>
