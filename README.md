@@ -36,7 +36,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/gulp-316192?style=for-the-badge&logo=gulp&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Strapi](https://img.shields.io/badge/firebase-red?style=for-the-badge&logo=firebase&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-%234945ff?style=flat&logoColor=%234945ff)
 ![Mongodb](https://img.shields.io/badge/mongodb-%23593d88.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-orange.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Less](https://img.shields.io/badge/less-%23E0234E.svg?style=for-the-badge&logo=less&logoColor=white)
